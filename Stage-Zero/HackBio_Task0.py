@@ -107,4 +107,5 @@ print("Preferred Programming Language:", team_info[4]["Preferred programming lan
 # Maurice Godwin: 
 
 # LinkedIn/Twitter Post Links
-# url goes here
+# LinkedIn Url: url goes here
+# X Url: url goes here
