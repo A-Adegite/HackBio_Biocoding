@@ -98,3 +98,13 @@ print("Hobby:", team_info[4]["Hobby"])
 print("Country:", team_info[4]["Country"])
 print("Discipline:", team_info[4]["Discipline"])
 print("Preferred Programming Language:", team_info[4]["Preferred programming language"])
+
+# GitHub Links of Team Members
+# Adegite Adejuwon: 
+# Adewuyi Emmanuel: 
+# Mgbafulu Chioma: 
+# Ajudua Sharon: 
+# Maurice Godwin: 
+
+# LinkedIn/Twitter Post Links
+# url goes here
