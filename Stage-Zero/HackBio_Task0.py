@@ -106,6 +106,5 @@ print("Preferred Programming Language:", team_info[4]["Preferred programming lan
 # Ajudua Sharon: 
 # Maurice Godwin: 
 
-# LinkedIn/Twitter Post Links
-# LinkedIn Url: url goes here
-# X Url: url goes here
+# LinkedIn Post Link
+# LinkedIn Url: https://www.linkedin.com/posts/chioma-mgbafulu_hackbio-biocoding-python-activity-7294001064700182529-0vD3/
