@@ -88,7 +88,7 @@ print("Country:", team_info[3]["Country"])
 print("Discipline:", team_info[3]["Discipline"])
 print("Preferred Programming Language:", team_info[3]["Preferred programming language"])
 
-print() # This creates a space between team Members info
+print() # This creates a space between team Members'info
 
 print("Team Members Five Information:\n")
 print("Name:", team_info[4]["Name"])
@@ -100,9 +100,9 @@ print("Discipline:", team_info[4]["Discipline"])
 print("Preferred Programming Language:", team_info[4]["Preferred programming language"])
 
 # GitHub Links of Team Members
-# Adegite Adejuwon: 
-# Adewuyi Emmanuel: 
-# Mgbafulu Chioma: 
+# Adegite Adejuwon: https://github.com/A-Adegite/HackBio_Biocoding
+# Adewuyi Emmanuel: https://github.com/Emmanueladewuyi/Hackbio-Bio-coding-Internship-.git
+# Mgbafulu Chioma: https://github.com/azarya23/hackbio-biocoding-internship..git
 # Ajudua Sharon: 
 # Maurice Godwin: 
 
