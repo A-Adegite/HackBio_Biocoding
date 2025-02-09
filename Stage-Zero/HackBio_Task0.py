@@ -104,7 +104,7 @@ print("Preferred Programming Language:", team_info[4]["Preferred programming lan
 # Adewuyi Emmanuel: https://github.com/Emmanueladewuyi/Hackbio-Bio-coding-Internship-.git
 # Mgbafulu Chioma: https://github.com/azarya23/hackbio-biocoding-internship..git
 # Ajudua Sharon: https://github.com/SharonAjudua/Hackbio-Biocoding_Internship_Files
-# Maurice Godwin: 
+# Maurice Godwin: https://github.com/Maurice31-prog-coder/Maurice31-prog-coder/
 
 # LinkedIn Post Link
 # LinkedIn Url: https://www.linkedin.com/posts/chioma-mgbafulu_hackbio-biocoding-python-activity-7294001064700182529-0vD3/
