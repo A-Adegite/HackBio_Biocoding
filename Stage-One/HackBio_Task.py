@@ -99,4 +99,3 @@ def Hamming_Distance(slack_handle,x_handle):
   return sum(ham_dist)
 
 Hamming_Distance("a_adegite","a_adegite")
-
