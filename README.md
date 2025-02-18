@@ -13,9 +13,9 @@ using the print() statement, each team member's details were printed in a struct
 ## Task Description 
 This stage involves implementing various bioinformatics functions related to DNA translation, population growth simulation, and string comparison.
 ## Task Details
-1. DNA to Protein Translation: A function that converts a given DNA sequence into its corresponding protein sequence using the standard genetic code.
-2. Logistic Population Growth Simulation: A function that simulates a logistic growth curve with randomized lag and exponential phases, generating 100 different growth curves.
-3. Time to 80% Carrying Capacity: A function determining the time required for a population to reach 80% of its maximum growth (carrying capacity).
+* DNA to Protein Translation: A function that converts a given DNA sequence into its corresponding protein sequence using the standard genetic code.
+*  Logistic Population Growth Simulation: A function that simulates a logistic growth curve with randomized lag and exponential phases, generating 100 different growth curves.
+*   ime to 80% Carrying Capacity: A function determining the time required for a population to reach 80% of its maximum growth (carrying capacity).
 Hamming Distance Calculation: A function that computes the Hamming distance between a Slack username and a Twitter/X handle, padding if necessary to match string lengths.
 
 
